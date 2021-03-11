@@ -1,4 +1,4 @@
-#Matias Gonzalez A.
+# Matias Gonzalez A.
 
 ¡Hola, me llamo Matias!, mi edad es de 22 años y soy desarrollador web full stack junior y actual estudiante de la carrera de ingeniera en informatica en la Universidad Nacional Arturo Jauretche,
 estos son mi actuales proyectos: 
