@@ -11,3 +11,6 @@ Proyecto integrador realizado para la fundación formar.
 
 link del repositorio: https://github.com/lucas-damian/grupo_8_red-hot-chili-guitars 
 
+## Proyecto Front-end 
+
+https://github.com/MatiasGQuilmes/prueba-proyecto-laboral
