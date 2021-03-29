@@ -13,4 +13,4 @@ link del repositorio: https://github.com/lucas-damian/grupo_8_red-hot-chili-guit
 
 ## Proyecto Front-end 
 
-https://github.com/MatiasGQuilmes/prueba-proyecto-laboral
+link del repositorio: https://github.com/MatiasGQuilmes/prueba-proyecto-laboral
