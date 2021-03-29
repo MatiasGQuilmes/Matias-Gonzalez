@@ -6,7 +6,7 @@ estos son mi actuales proyectos:
 
 ## e-commerce Red Hot Chili Guitars:
 
-Proyecto realizado en grupo de 2 personas, implementando metodologias ágiles SCRUM. duracion del proyecto: 3 meses.
+Proyecto realizado en grupo de 3 personas, implementando metodologias ágiles SCRUM. duracion del proyecto: 3 meses.
 Proyecto integrador realizado para la fundación formar.
 
 link del repositorio: https://github.com/lucas-damian/grupo_8_red-hot-chili-guitars 
