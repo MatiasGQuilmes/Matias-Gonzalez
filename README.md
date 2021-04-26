@@ -1,7 +1,7 @@
 # Matias Nahuel Gonzalez Ayala.
 
 ¡Hola, me llamo Matias!, mi edad es de 22 años y soy desarrollador web full stack junior y actual estudiante de la carrera de ingeniera en informatica en la Universidad Nacional Arturo Jauretche,
-estos son mi actuales proyectos: 
+estos son mi proyectos actuales: 
 
 
 ## e-commerce Red Hot Chili Guitars:
